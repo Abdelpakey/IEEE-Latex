@@ -1,6 +1,6 @@
-# IEEE-Latex
+# IEEE access-Latex
 
-IEEE has an issue in their default *.tex
+IEEE Access has an issue in their default *.tex
 
 lsimply add 
 \usepackage{caption,setspace}
